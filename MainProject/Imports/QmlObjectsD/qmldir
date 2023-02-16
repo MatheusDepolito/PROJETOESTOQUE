@@ -1,0 +1,5 @@
+module QmlObjectsD
+
+FormAddGroup 1.0 FormAddGroup.qml
+SquareGroup 1.0 SquareGroup.qml
+Edit 1.0 Edit.qml
